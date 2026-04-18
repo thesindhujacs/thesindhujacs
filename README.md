@@ -3,7 +3,7 @@
 🎓 3rd Year B.E. Computer Science & Engineering @ BNMIT, Bangalore  
 💡 Aspiring AI/ML Researcher | Generative AI | NLP | Multimodal Learning  
 📊 CGPA: 9.58  
-🔗 https://thesindhujacs.github.io
+
 ---
 
 ## 🔭 Research Interests
