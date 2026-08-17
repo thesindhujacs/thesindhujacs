@@ -1,8 +1,8 @@
 # Hi, I'm Sindhuja 👋
 
-🎓 3rd Year B.E. Computer Science & Engineering @ BNMIT, Bangalore  
+🎓 Final Year B.E. Computer Science & Engineering @ BNMIT, Bangalore  
 💡 Aspiring AI/ML Researcher | Generative AI | NLP | Multimodal Learning  
-📊 CGPA: 9.58  
+📊 CGPA: 9.60  
 🔗 https://thesindhujacs.github.io
 
 ---
